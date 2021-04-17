@@ -1,0 +1,13 @@
+.appcss{
+    background-image: url('./images/back.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+.formcss{
+    align-items: center;
+    padding-top: 3%;
+}
+.loginformcss{
+    align-items: center;
+    padding-top: 10%;
+}
